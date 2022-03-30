@@ -1,0 +1,9 @@
+com\example\sun\controller\ServiceController.class
+com\example\sun\entity\ServiceInfo.class
+com\example\common\utils\CommUtils.class
+com\example\common\utils\JsonMapper$2.class
+com\example\common\utils\JsonUtils.class
+com\example\SpringbootServiceApplication.class
+com\example\common\utils\JsonMapper.class
+com\example\common\utils\JsonMapper$1.class
+com\example\common\entity\RestfulResult.class
